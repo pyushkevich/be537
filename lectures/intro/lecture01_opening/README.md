@@ -2,7 +2,5 @@ Opening Lecture
 =====
 
 Lecture Materials:
-* [lecture_intro.pptx]
-
-Image Datasets:
-* [example_images]
+* [Powerpoint](lecture_intro.pptx)
+* [Example Images](example_images)
